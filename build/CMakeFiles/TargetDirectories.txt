@@ -1,0 +1,3 @@
+C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build/CMakeFiles/LifeSimulator.dir
+C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build/CMakeFiles/edit_cache.dir
+C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build/CMakeFiles/rebuild_cache.dir

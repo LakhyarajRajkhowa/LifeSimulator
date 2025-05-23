@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\Errors.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Errors.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Errors.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\Errors.cpp.obj"
+},
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\Particle.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Particle.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Particle.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\Particle.cpp.obj"
+},
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\Random.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Random.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Random.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\Random.cpp.obj"
+},
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\Render.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Render.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Render.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\Render.cpp.obj"
+},
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\Simulator.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Simulator.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Simulator.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\Simulator.cpp.obj"
+},
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\Window.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Window.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\Window.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\Window.cpp.obj"
+},
+{
+  "directory": "C:/Users/llakh/OneDrive/Desktop/LifeSimulator/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -IC:/Users/llakh/OneDrive/Desktop/LifeSimulator/include -g -std=gnu++17 -o CMakeFiles\\LifeSimulator.dir\\src\\main.cpp.obj -c C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\main.cpp",
+  "file": "C:\\Users\\llakh\\OneDrive\\Desktop\\LifeSimulator\\src\\main.cpp",
+  "output": "CMakeFiles\\LifeSimulator.dir\\src\\main.cpp.obj"
+}
+]
