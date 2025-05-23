@@ -3,8 +3,9 @@
 A Particle Life Simulator inspired by https://www.ventrella.com/Clusters/
 
 
-##  Build Instructions (Windows)
+###  Build Instructions (Windows)
 
+```bash
 - Clone the repo
 git clone https://github.com/LakhyarajRajkhowa/LifeSimulator
 cd LifeSimulator
