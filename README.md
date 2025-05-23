@@ -5,15 +5,15 @@ A Particle Life Simulator inspired by https://www.ventrella.com/Clusters/
 
 ##  Build Instructions (Windows)
 
-# Clone the repo
+- Clone the repo
 git clone https://github.com/LakhyarajRajkhowa/LifeSimulator
 cd LifeSimulator
 
-# Create build directory and run CMake
+- Create build directory and run CMake
 mkdir build && cd build
 cmake ..
 
-# Build the project
+- Build the project
 cmake --build .
 
 - Copy all the binaries from /bin folder to the /build folder 
